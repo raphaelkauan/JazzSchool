@@ -1,4 +1,4 @@
-# LandingPage
+# jazz school
 
 Landing Page agradável e responsiva
 
